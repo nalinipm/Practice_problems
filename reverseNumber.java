@@ -25,3 +25,7 @@ public class reverseNumber {
 		System.out.println("Reverse of a number is " + reverseDigits(num));
 	}
 }
+
+//Time Complexity: O(log(n)), where n is the input number. 
+
+//Auxiliary Space: O(1)
